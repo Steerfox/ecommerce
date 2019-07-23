@@ -78,6 +78,7 @@
             "dev-master": "3.x-dev"
         }
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Sonata\\Component\\": "src/Component",
