@@ -1,5 +1,5 @@
 {
-    "name": "sonata-project/ecommerce",
+    "name": "steerfox//ecommerce",
     "type": "symfony-bundle",
     "description": "E-Commerce solution provided by Sonata",
     "license": "MIT",
